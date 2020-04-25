@@ -1,6 +1,8 @@
-# training
-SAP Training repository for auto deployment class
+# SAP Training repository for SAP on Azure Workshop
 
 # About the content
-In this classe you will learn how to configure and setup SAP on Azure landscape while using Azure Netapp File 
-to build a SAP Hana scale out environment
+This folder contain all the necessary artifcat and template to be use for the SAP on Azure Workshop
+and scenatio provided by Kochasoft Inc.
+
+# What are the scenaio
+- Template for multi node server deployment for SAP Hana Scale Out
