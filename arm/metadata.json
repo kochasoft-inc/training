@@ -1,0 +1,7 @@
+{
+  "itemDisplayName": "SAP Hana on Azure Scale Out Lab",
+  "description": "This template deploys 2 SLES server to run SAP Hana in scale out mode to use Azure Netapp File",
+  "summary": "This template deploys SAP Hana Scale Out Server 1+1.",
+  "githubUsername": "Kochasoft",
+  "dateUpdated": "2020-04-24"
+}
