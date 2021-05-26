@@ -1,0 +1,4 @@
+{
+  "itemDisplayName": "SAP Hana HA & DR Lab",
+  "description": "This template is used for HA/DR Lab, it to deploy SAP Hana in Cluster with DR and a webdispatcher"
+}
